@@ -1,0 +1,7 @@
+{
+  "name": "JPVANO SaaS Platform",
+  "description": "A high-performance SaaS platform for creators and affiliates, integrating Stripe, PayPal, and Pix (Asaas) for real-money transactions, card issuing, and automated splits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
